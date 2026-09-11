@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Sewa Bath Solution logo">
+  <circle cx="110" cy="110" r="104" fill="#1B2430"/>
+  <circle cx="110" cy="110" r="104" fill="none" stroke="#B8823D" stroke-width="4"/>
+  <path d="M62 138 C62 108, 158 108, 158 138" fill="none" stroke="#EDEEF0" stroke-width="10" stroke-linecap="round"/>
+  <line x1="70" y1="138" x2="70" y2="160" stroke="#EDEEF0" stroke-width="10" stroke-linecap="round"/>
+  <line x1="150" y1="138" x2="150" y2="160" stroke="#EDEEF0" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="110" cy="78" r="9" fill="#B8823D"/>
+  <text x="110" y="187" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" fill="#EDEEF0" text-anchor="middle" letter-spacing="1">SBS</text>
+</svg>
